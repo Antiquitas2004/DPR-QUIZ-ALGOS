@@ -9,7 +9,7 @@ Algorithm Quiz 1
  
   <li>Submit a binary search example by adding a file to this project after forking it. Be sure to explain how the example functions using comments or in this README.</li>
   
-The file researched for this portion reviews a recursive binary search. It maintains the same range as parameters to the function. The very first step is a test of a final condition to stop the recursion.  When a rercusive call finally returns a value, in general it doesn't return the value directly to the call inside the main function. The final call returns a value to the previous call until finally it is returned into main.
+The file (binarysearch.java attached) researched for this portion reviews a recursive binary search. It maintains the same range as parameters to the function. The very first step is a test of a final condition to stop the recursion.  When a rercusive call finally returns a value, in general it doesn't return the value directly to the call inside the main function. The final call returns a value to the previous call until finally it is returned into main.
   
   
   <li>Is a selection sort or a bubble sort faster?</li>
